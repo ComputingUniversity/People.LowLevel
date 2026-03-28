@@ -1,0 +1,1 @@
+- [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM)
